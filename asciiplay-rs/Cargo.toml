@@ -1,0 +1,12 @@
+[package]
+name = "asciiplay-rs"
+version = "0.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+console = "0.15.7"
+ffmpeg-next = "6.0.0"
+image = "0.24.7"
+rascii_art = "0.4.5"
